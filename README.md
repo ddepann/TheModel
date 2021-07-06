@@ -5,8 +5,8 @@ _(a biophysical description at single neuron level of membrane excitability.)_
 
 The attached code is to simulate and successively visualize the different patterns presented in figure 2 from: 
 
-_A unified physiological framework of transitions between seizures, status epilepticus and depolarization block at the single neuron level._
- 
+_A unified physiological framework of transitions between seizures, sustained ictal activity and depolarization block at the single neuron level_
+
 by:
 Depannemaecker D, Ivanov A, Lillo D, Spek L, Bernard C, Jirsa V.
 
