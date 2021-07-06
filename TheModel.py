@@ -1,7 +1,6 @@
 import numpy as np
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
-#import matplotlib.gridspec as gridspec
 
 def m_inf(v):
     return 1.0/(1.0+np.exp((-24.0-v)/12.0))
@@ -77,9 +76,8 @@ z0 = [-78.0, n_inf(-78.0), -0.6 ,0.8]
 
 
 
-Np=8000
+Np=10000
 t = np.linspace(0,Np, int(Np/0.01))
-lt=int(len(t)>2)
 
 KB= [4.8, 7.5, 9.5, 12.5, 17.0, 17.5, 20.0]
 
