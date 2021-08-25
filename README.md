@@ -11,7 +11,7 @@ by:
 Depannemaecker D, Ivanov A, Lillo D, Spek L, Bernard C, Jirsa V.
 
 available at:
-BioRxiv 2020:2020.10.23.352021. https://doi.org/10.1101/2020.10.2 
+BioRxiv 2020:2020.10.23.352021. https://doi.org/10.1101/2020.10.23.352021
 
 
 
